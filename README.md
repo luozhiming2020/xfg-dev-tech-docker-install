@@ -255,6 +255,7 @@ sudo ./run_install_software.sh
 - ollama - AI 模型服务
 - pgvector - 向量数据库
 - pgvector-admin - 向量数据库管理界面
+
   注意事项：
 
 - 需要 root 权限执行
@@ -311,7 +312,7 @@ sudo systemctl start docker
    ./run_install_docker_local.sh
    ```
 
-3. 然后安装 Docker ：
+3. 然后安装 Maven ：
 
    ```
    ./install-maven.sh
